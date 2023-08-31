@@ -1,8 +1,8 @@
 // Please fill in any missing type annotations here...
 const headOfTable = "Me!";
-let adjacentLeft;
-let adjacentRight;
-let furtherLeft;
+let adjacentLeft: "Susie" | "Tommy";
+let adjacentRight: "Susie" | "Tommy";
+let furtherLeft: "Angelica" | "Chuckie" | undefined;
 let furtherRight;
 
 // I always invite Susie and Tommy! ♥
